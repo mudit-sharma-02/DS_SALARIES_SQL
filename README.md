@@ -27,7 +27,7 @@ Built using **MySQL**, with **reporting views** and **dashboard-ready datasets**
 ## 📂 Folder Structure
 
 
-###Global-DS-Salary-Analytics/
+### Global-DS-Salary-Analytics/
       │
       ├── SQL/                     # All SQL scripts
       │   ├── 01_database_setup.sql          # Create DB & table
